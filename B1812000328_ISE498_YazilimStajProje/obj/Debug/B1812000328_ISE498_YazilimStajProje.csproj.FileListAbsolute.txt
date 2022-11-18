@@ -1,0 +1,10 @@
+C:\Users\Ada\Desktop\yazılım staj\B1812000328_ISE498_YazilimStajProje\bin\Debug\B1812000328_ISE498_YazilimStajProje.exe.config
+C:\Users\Ada\Desktop\yazılım staj\B1812000328_ISE498_YazilimStajProje\bin\Debug\B1812000328_ISE498_YazilimStajProje.exe
+C:\Users\Ada\Desktop\yazılım staj\B1812000328_ISE498_YazilimStajProje\bin\Debug\B1812000328_ISE498_YazilimStajProje.pdb
+C:\Users\Ada\Desktop\yazılım staj\B1812000328_ISE498_YazilimStajProje\obj\Debug\B1812000328_ISE498_YazilimStajProje.csprojAssemblyReference.cache
+C:\Users\Ada\Desktop\yazılım staj\B1812000328_ISE498_YazilimStajProje\obj\Debug\B1812000328_ISE498_YazilimStajProje.Form1.resources
+C:\Users\Ada\Desktop\yazılım staj\B1812000328_ISE498_YazilimStajProje\obj\Debug\B1812000328_ISE498_YazilimStajProje.Properties.Resources.resources
+C:\Users\Ada\Desktop\yazılım staj\B1812000328_ISE498_YazilimStajProje\obj\Debug\B1812000328_ISE498_YazilimStajProje.csproj.GenerateResource.cache
+C:\Users\Ada\Desktop\yazılım staj\B1812000328_ISE498_YazilimStajProje\obj\Debug\B1812000328_ISE498_YazilimStajProje.csproj.CoreCompileInputs.cache
+C:\Users\Ada\Desktop\yazılım staj\B1812000328_ISE498_YazilimStajProje\obj\Debug\B1812000328_ISE498_YazilimStajProje.exe
+C:\Users\Ada\Desktop\yazılım staj\B1812000328_ISE498_YazilimStajProje\obj\Debug\B1812000328_ISE498_YazilimStajProje.pdb
